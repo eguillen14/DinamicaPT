@@ -1,2 +1,0 @@
-# DinamicaPT
-Noob on GitHub
